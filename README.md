@@ -2,7 +2,7 @@
 <h3>Aplikasi Web dengan Framework Codeigniter</h3>
 
 
-<p>Ini Adalah tugas dari mata kuliah web programming II .</p>
+<p>tugas web programming II .</p>
 
 <br>
 <br>
